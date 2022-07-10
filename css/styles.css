@@ -364,7 +364,7 @@ h2 {
     align-items: baseline;
     align-items: center;
     justify-content: center;
-    margin-bottom: 35px; 
+    margin-bottom: 50px; 
 }
 
 .btn-prtf {
@@ -379,7 +379,6 @@ h2 {
         color: var(--title-color);
         cursor: pointer;
         border: 0px;
-        margin-right: 10px;
         padding: 6px 22px;
         
 }
@@ -451,9 +450,6 @@ h2 {
     
 }
 
-.footer-text-between {
-    margin-bottom: 10px;
-}
 
 .footer-logo {
 
@@ -479,8 +475,10 @@ color: var(--pure-white-color);
     line-height: 1.7;
     letter-spacing: 0.03em;
     color: var(--pure-white-color);
+    margin-bottom: 10px ;
     
 }
+
 
 .footer-contacts {
     
@@ -490,7 +488,7 @@ color: var(--pure-white-color);
     line-height: 1.7;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
-    
+
 
     
 }
